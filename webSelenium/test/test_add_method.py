@@ -1,5 +1,5 @@
 from datetime import datetime
-import os.path
+import os
 import time
 
 import allure
